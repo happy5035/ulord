@@ -1,0 +1,12 @@
+{
+    "threads":8,    //挖矿线程数      
+    "pools": [
+        {
+            "url": "47.104.76.219:7100",      //矿池地址和端口
+            "user": "UWVYrcf6KTHx2Hpn4vvger2Bw6oAYrH1WC",    //钱包地址和矿机编号    
+            "pass": "x"                                           //矿池密码
+                                                                  
+        }
+    ]
+               
+}
